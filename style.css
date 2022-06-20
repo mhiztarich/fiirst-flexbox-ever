@@ -17,6 +17,20 @@ main {
   height: 100vh;
 }
 
+header .grid {
+  color: white;
+  background-color: rgb(53, 53, 60);
+  padding: 20px;
+  border-radius: 5px;
+  border: 3px dotted white;
+  width: 10%;
+}
+
+header .grid a {
+  color: white;
+  text-decoration: none;
+}
+
 main .left-content {
   background-color: hsl(31, 77%, 52%);
   padding: 3em;
